@@ -1,0 +1,24 @@
+Dobrý den,
+
+Jedná se o můj projekt ztvárnění hry othello pomocí java swing.
+Nejedná se o finální verzi, plánuji ještě několik věcí přidat, upravit a kód pokud možno co nejvíc optimalizovat.
+Zkompilováno v javě verze 8u121 - v jinných verzích jsem to zatím netestoval, ovšem pro správný chod by vám měla stačit java 8.
+
+POPIS HRY.
+
+Na začátku se zobrazí malé okno s dvěma checkboxy.
+První určuje jestli chcou hrát dva hráčí nebo pouze hráč s počítačem.
+Druhé určuje, jestli chcete během hry pouštět hudbu.
+(Při výběru hudby vám vždy vyskočí filechooser ve kterém vyberete hudební soubor z příslušné složky.
+Program načte celou složku a uloží všechny skladby do pole podle abecedy, které postupně přehraje.
+Po dohrátí poslední skladby se opět zobrazí filechooser)
+
+Po zmáčknutí tlačítka play nastavení zmizí a zobrazí se hrací plocha v módu fullscreen.
+První hráč je červený, který vždy začíná a druhý hráč je modrý, který je buď podle výběru skutečný hráč nebo počítač.
+Label vpravo zobrazuje, který hráč je momentálně na tahu.
+
+Hra probíhá standartně jak klasické othello.
+
+Přeji příjemnou zábavu.
+
+(Není to finální verze, takže může obsahovat chyby).
